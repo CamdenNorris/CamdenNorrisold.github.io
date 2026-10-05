@@ -1,0 +1,25 @@
+locale: "en-US"
+site_theme: "default"
+
+title: "Camden Norris"
+title_separator: "|"
+name: &name "Camden Norris"
+
+description: &description "Automotive Engineering student at Clemson University focused on robotics, mechanical design, automotive systems, and intelligent machines."
+
+url: "https://camdennorris.github.io"
+baseurl: ""
+
+repository: "CamdenNorris/CamdenNorris.github.io"
+
+author:
+  avatar: "profile.jpg"
+  name: "Camden Norris"
+  bio: "Automotive Engineering student at Clemson University interested in robotics, automotive systems, mechanical design, and intelligent machines."
+  location: "Clemson, SC"
+  employer: "Clemson University"
+
+  email: "Camdenjn@icloud.com"
+
+  github: "CamdenNorris"
+  linkedin: ""
